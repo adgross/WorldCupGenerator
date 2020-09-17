@@ -1,0 +1,476 @@
+{
+    "Canad\u00e1": {
+        "name": "Canad\u00e1",
+        "seeder": false,
+        "region": "CONCACAF",
+        "win_chance": 31
+    },
+    "China": {
+        "name": "China",
+        "seeder": false,
+        "region": "AFC",
+        "win_chance": 36
+    },
+    "Pa\u00eds de Gales": {
+        "name": "Pa\u00eds de Gales",
+        "seeder": false,
+        "region": "UEFA",
+        "win_chance": 43
+    },
+    "Israel": {
+        "name": "Israel",
+        "seeder": false,
+        "region": "UEFA",
+        "win_chance": 26
+    },
+    "Costa do Marfim": {
+        "name": "Costa do Marfim",
+        "seeder": false,
+        "region": "CAF",
+        "win_chance": 53
+    },
+    "El Salvador": {
+        "name": "El Salvador",
+        "seeder": false,
+        "region": "CONCACAF",
+        "win_chance": 25
+    },
+    "\u00c1frica do Sul": {
+        "name": "\u00c1frica do Sul",
+        "seeder": true,
+        "region": "CAF",
+        "win_chance": 63
+    },
+    "Egito": {
+        "name": "Egito",
+        "seeder": false,
+        "region": "CAF",
+        "win_chance": 52
+    },
+    "Arg\u00e9lia": {
+        "name": "Arg\u00e9lia",
+        "seeder": false,
+        "region": "CAF",
+        "win_chance": 53
+    },
+    "Guatemala": {
+        "name": "Guatemala",
+        "seeder": false,
+        "region": "CONCACAF",
+        "win_chance": 7
+    },
+    "Hungria": {
+        "name": "Hungria",
+        "seeder": false,
+        "region": "UEFA",
+        "win_chance": 46
+    },
+    "Camar\u00f5es": {
+        "name": "Camar\u00f5es",
+        "seeder": true,
+        "region": "CAF",
+        "win_chance": 62
+    },
+    "Eti\u00f3pia": {
+        "name": "Eti\u00f3pia",
+        "seeder": false,
+        "region": "CAF",
+        "win_chance": 29
+    },
+    "Senegal": {
+        "name": "Senegal",
+        "seeder": true,
+        "region": "CAF",
+        "win_chance": 63
+    },
+    "Brasil": {
+        "name": "Brasil",
+        "seeder": true,
+        "region": "CONMEBOL",
+        "win_chance": 81
+    },
+    "Cor\u00e9ia do Sul": {
+        "name": "Cor\u00e9ia do Sul",
+        "seeder": false,
+        "region": "AFC",
+        "win_chance": 42
+    },
+    "Cuba": {
+        "name": "Cuba",
+        "seeder": false,
+        "region": "CONCACAF",
+        "win_chance": 43
+    },
+    "Inglaterra": {
+        "name": "Inglaterra",
+        "seeder": true,
+        "region": "UEFA",
+        "win_chance": 80
+    },
+    "Ilhas Salom\u00e3o": {
+        "name": "Ilhas Salom\u00e3o",
+        "seeder": false,
+        "region": "OFC",
+        "win_chance": 11
+    },
+    "Col\u00f4mbia": {
+        "name": "Col\u00f4mbia",
+        "seeder": false,
+        "region": "CONMEBOL",
+        "win_chance": 64
+    },
+    "Congo": {
+        "name": "Congo",
+        "seeder": false,
+        "region": "CAF",
+        "win_chance": 37
+    },
+    "S\u00e9rvia": {
+        "name": "S\u00e9rvia",
+        "seeder": false,
+        "region": "UEFA",
+        "win_chance": 41
+    },
+    "It\u00e1lia": {
+        "name": "It\u00e1lia",
+        "seeder": true,
+        "region": "UEFA",
+        "win_chance": 88
+    },
+    "Tun\u00edsia": {
+        "name": "Tun\u00edsia",
+        "seeder": false,
+        "region": "CAF",
+        "win_chance": 41
+    },
+    "Bol\u00edvia": {
+        "name": "Bol\u00edvia",
+        "seeder": false,
+        "region": "CONMEBOL",
+        "win_chance": 40
+    },
+    "Chile": {
+        "name": "Chile",
+        "seeder": true,
+        "region": "CONMEBOL",
+        "win_chance": 67
+    },
+    "Rep\u00fablica Tcheca": {
+        "name": "Rep\u00fablica Tcheca",
+        "seeder": false,
+        "region": "UEFA",
+        "win_chance": 62
+    },
+    "\u00c1ustria": {
+        "name": "\u00c1ustria",
+        "seeder": false,
+        "region": "UEFA",
+        "win_chance": 40
+    },
+    "Guiana": {
+        "name": "Guiana",
+        "seeder": false,
+        "region": "CONCACAF",
+        "win_chance": 9
+    },
+    "Eslov\u00e1quia": {
+        "name": "Eslov\u00e1quia",
+        "seeder": false,
+        "region": "UEFA",
+        "win_chance": 40
+    },
+    "Su\u00ed\u00e7a": {
+        "name": "Su\u00ed\u00e7a",
+        "seeder": false,
+        "region": "UEFA",
+        "win_chance": 44
+    },
+    "Uruguai": {
+        "name": "Uruguai",
+        "seeder": true,
+        "region": "CONMEBOL",
+        "win_chance": 77
+    },
+    "M\u00e9xico": {
+        "name": "M\u00e9xico",
+        "seeder": true,
+        "region": "CONCACAF",
+        "win_chance": 75
+    },
+    "Cro\u00e1cia": {
+        "name": "Cro\u00e1cia",
+        "seeder": false,
+        "region": "UEFA",
+        "win_chance": 60
+    },
+    "Argentina": {
+        "name": "Argentina",
+        "seeder": true,
+        "region": "CONMEBOL",
+        "win_chance": 91
+    },
+    "Venezuela": {
+        "name": "Venezuela",
+        "seeder": false,
+        "region": "CONMEBOL",
+        "win_chance": 53
+    },
+    "Angola": {
+        "name": "Angola",
+        "seeder": false,
+        "region": "CAF",
+        "win_chance": 41
+    },
+    "Espanha": {
+        "name": "Espanha",
+        "seeder": true,
+        "region": "UEFA",
+        "win_chance": 87
+    },
+    "Dinamarca": {
+        "name": "Dinamarca",
+        "seeder": false,
+        "region": "UEFA",
+        "win_chance": 55
+    },
+    "Taiti": {
+        "name": "Taiti",
+        "seeder": false,
+        "region": "OFC",
+        "win_chance": 20
+    },
+    "Panam\u00e1": {
+        "name": "Panam\u00e1",
+        "seeder": false,
+        "region": "CONCACAF",
+        "win_chance": 19
+    },
+    "Peru": {
+        "name": "Peru",
+        "seeder": false,
+        "region": "CONMEBOL",
+        "win_chance": 52
+    },
+    "L\u00edbia": {
+        "name": "L\u00edbia",
+        "seeder": false,
+        "region": "CAF",
+        "win_chance": 36
+    },
+    "Alemanha": {
+        "name": "Alemanha",
+        "seeder": true,
+        "region": "UEFA",
+        "win_chance": 95
+    },
+    "Burkina Faso": {
+        "name": "Burkina Faso",
+        "seeder": false,
+        "region": "CAF",
+        "win_chance": 36
+    },
+    "Austr\u00e1lia": {
+        "name": "Austr\u00e1lia",
+        "seeder": false,
+        "region": "AFC",
+        "win_chance": 56
+    },
+    "Marrocos": {
+        "name": "Marrocos",
+        "seeder": false,
+        "region": "CAF",
+        "win_chance": 53
+    },
+    "Emirados \u00c1rabes Unidos": {
+        "name": "Emirados \u00c1rabes Unidos",
+        "seeder": false,
+        "region": "AFC",
+        "win_chance": 20
+    },
+    "Paraguai": {
+        "name": "Paraguai",
+        "seeder": false,
+        "region": "CONMEBOL",
+        "win_chance": 54
+    },
+    "Equador": {
+        "name": "Equador",
+        "seeder": false,
+        "region": "CONMEBOL",
+        "win_chance": 65
+    },
+    "Tail\u00e2ndia": {
+        "name": "Tail\u00e2ndia",
+        "seeder": false,
+        "region": "AFC",
+        "win_chance": 11
+    },
+    "Iraque": {
+        "name": "Iraque",
+        "seeder": false,
+        "region": "AFC",
+        "win_chance": 16
+    },
+    "Turquia": {
+        "name": "Turquia",
+        "seeder": false,
+        "region": "UEFA",
+        "win_chance": 53
+    },
+    "Jamaica": {
+        "name": "Jamaica",
+        "seeder": false,
+        "region": "CONCACAF",
+        "win_chance": 12
+    },
+    "Nova Caled\u00f4nia": {
+        "name": "Nova Caled\u00f4nia",
+        "seeder": false,
+        "region": "OFC",
+        "win_chance": 15
+    },
+    "Guin\u00e9": {
+        "name": "Guin\u00e9",
+        "seeder": false,
+        "region": "CAF",
+        "win_chance": 50
+    },
+    "Jap\u00e3o": {
+        "name": "Jap\u00e3o",
+        "seeder": false,
+        "region": "AFC",
+        "win_chance": 53
+    },
+    "Isl\u00e2ndia": {
+        "name": "Isl\u00e2ndia",
+        "seeder": false,
+        "region": "UEFA",
+        "win_chance": 35
+    },
+    "Ucr\u00e2nia": {
+        "name": "Ucr\u00e2nia",
+        "seeder": false,
+        "region": "UEFA",
+        "win_chance": 58
+    },
+    "Portugal": {
+        "name": "Portugal",
+        "seeder": true,
+        "region": "UEFA",
+        "win_chance": 68
+    },
+    "B\u00e9lgica": {
+        "name": "B\u00e9lgica",
+        "seeder": true,
+        "region": "UEFA",
+        "win_chance": 90
+    },
+    "Su\u00e9cia": {
+        "name": "Su\u00e9cia",
+        "seeder": false,
+        "region": "UEFA",
+        "win_chance": 51
+    },
+    "Gana": {
+        "name": "Gana",
+        "seeder": true,
+        "region": "CAF",
+        "win_chance": 60
+    },
+    "Rom\u00eania": {
+        "name": "Rom\u00eania",
+        "seeder": false,
+        "region": "UEFA",
+        "win_chance": 57
+    },
+    "Costa Rica": {
+        "name": "Costa Rica",
+        "seeder": false,
+        "region": "CONCACAF",
+        "win_chance": 55
+    },
+    "Ir\u00e3": {
+        "name": "Ir\u00e3",
+        "seeder": false,
+        "region": "AFC",
+        "win_chance": 32
+    },
+    "Honduras": {
+        "name": "Honduras",
+        "seeder": false,
+        "region": "CONCACAF",
+        "win_chance": 14
+    },
+    "Nova Zel\u00e2ndia": {
+        "name": "Nova Zel\u00e2ndia",
+        "seeder": false,
+        "region": "OFC",
+        "win_chance": 16
+    },
+    "Gr\u00e9cia": {
+        "name": "Gr\u00e9cia",
+        "seeder": false,
+        "region": "UEFA",
+        "win_chance": 35
+    },
+    "Libano": {
+        "name": "Libano",
+        "seeder": false,
+        "region": "AFC",
+        "win_chance": 15
+    },
+    "R\u00fassia": {
+        "name": "R\u00fassia",
+        "seeder": true,
+        "region": "UEFA",
+        "win_chance": 67
+    },
+    "Cor\u00e9ia do Norte": {
+        "name": "Cor\u00e9ia do Norte",
+        "seeder": false,
+        "region": "AFC",
+        "win_chance": 18
+    },
+    "Holanda": {
+        "name": "Holanda",
+        "seeder": true,
+        "region": "UEFA",
+        "win_chance": 82
+    },
+    "Nig\u00e9ria": {
+        "name": "Nig\u00e9ria",
+        "seeder": true,
+        "region": "CAF",
+        "win_chance": 64
+    },
+    "Ar\u00e1bia Saudita": {
+        "name": "Ar\u00e1bia Saudita",
+        "seeder": false,
+        "region": "AFC",
+        "win_chance": 34
+    },
+    "Montenegro": {
+        "name": "Montenegro",
+        "seeder": false,
+        "region": "UEFA",
+        "win_chance": 36
+    },
+    "Fran\u00e7a": {
+        "name": "Fran\u00e7a",
+        "seeder": true,
+        "region": "UEFA",
+        "win_chance": 73
+    },
+    "Eslov\u00e9nia": {
+        "name": "Eslov\u00e9nia",
+        "seeder": false,
+        "region": "UEFA",
+        "win_chance": 35
+    },
+    "Estados Unidos": {
+        "name": "Estados Unidos",
+        "seeder": false,
+        "region": "CONCACAF",
+        "win_chance": 36
+    }
+}

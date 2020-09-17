@@ -1,0 +1,212 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: World Cup Generator\n"
+"POT-Creation-Date: 2020-09-04 01:39-0300\n"
+"PO-Revision-Date: 2020-09-04 01:39-0300\n"
+"Last-Translator: Ádler Jonas Gross\n"
+"Language-Team: \n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.1\n"
+"X-Poedit-Basepath: ../../..\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-SearchPath-0: country.py\n"
+"X-Poedit-SearchPath-1: main.py\n"
+"X-Poedit-SearchPath-2: wcgcountryeditor.py\n"
+"X-Poedit-SearchPath-3: wcggen.py\n"
+"X-Poedit-SearchPath-4: wcggui.py\n"
+"X-Poedit-SearchPath-5: wcgruleseditor.py\n"
+
+#: country.py:29
+msgid "Asia"
+msgstr "Ásia"
+
+#: country.py:30
+msgid "Africa"
+msgstr "África"
+
+#: country.py:31
+msgid "North and Central America"
+msgstr "América do Norte e Central"
+
+#: country.py:32
+msgid "South America"
+msgstr "América do Sul"
+
+#: country.py:33
+msgid "Oceania"
+msgstr "Oceania"
+
+#: country.py:34
+msgid "Europe"
+msgstr "Europa"
+
+#: wcgcountryeditor.py:11 wcggui.py:162
+msgid "Country Editor"
+msgstr "Editor de Países"
+
+#: wcgcountryeditor.py:56
+msgid "Open File"
+msgstr "Abrir Arquivo"
+
+#: wcgcountryeditor.py:66
+msgid "File is corrupt or invalid JSON"
+msgstr "Arquivo corrupto ou JSON inválido"
+
+#: wcgcountryeditor.py:68
+msgid "Fail to read the file"
+msgstr "Falha ao ler arquivo"
+
+#: wcgcountryeditor.py:81
+#, python-brace-format
+msgid "Region '{region}' of Country '{country}' don't exist"
+msgstr "Região '{region}' do País '{country}' não existe"
+
+#: wcgcountryeditor.py:83
+msgid "Invalid Region"
+msgstr "Região Inválida"
+
+#: wcgcountryeditor.py:96
+#, python-brace-format
+msgid "Country name should be unique! Duplicated \"{name}\""
+msgstr "Nome do País deve ser único! \"{name}\" duplicado"
+
+#: wcgcountryeditor.py:98
+msgid "Non unique Country"
+msgstr "País não único"
+
+#: wcgcountryeditor.py:102
+msgid "Save As"
+msgstr "Salvar Como"
+
+#: wcgcountryeditor.py:210
+#, python-brace-format
+msgid "Country \"{name}\" not unique, quit without save?"
+msgstr "País \"{name}\" não único, sair sem salvar?"
+
+#: wcgcountryeditor.py:212
+msgid "Exit"
+msgstr "Sair"
+
+#: wcgcountryeditor.py:310
+msgid "Load from File"
+msgstr "Carregar de Arquivo"
+
+#: wcgcountryeditor.py:311
+msgid "Save to File"
+msgstr "Salvar em Arquivo"
+
+#: wcgcountryeditor.py:312
+msgid "Add Country"
+msgstr "Adicionar País"
+
+#: wcgcountryeditor.py:313
+msgid "Remove Country"
+msgstr "Remover País"
+
+#: wcgcountryeditor.py:314
+msgid "Name :"
+msgstr "Nome :"
+
+#: wcgcountryeditor.py:315
+msgid "Country"
+msgstr "País"
+
+#: wcgcountryeditor.py:316
+msgid "Region :"
+msgstr "Região :"
+
+#: wcgcountryeditor.py:317
+msgid "Select a Region"
+msgstr "Selecione uma Região"
+
+#: wcgcountryeditor.py:318
+msgid "Can be a seeder"
+msgstr "Pode ser cabeça de chave"
+
+#: wcgcountryeditor.py:319
+msgid ""
+"Win \n"
+"Chance (%)"
+msgstr ""
+"Chance de \n"
+"Vitória (%)"
+
+#: wcggui.py:16
+msgid "World Cup Generator"
+msgstr "Gerador de Copas do Mundo"
+
+#: wcggui.py:55
+msgid "Need at least 32 countries to make a World Cup."
+msgstr "Precisa pelo menos 32 países para fazer uma Copa do Mundo."
+
+#: wcggui.py:57
+msgid "Fail to Generate"
+msgstr "Falha ao Gerar"
+
+#: wcggui.py:68
+msgid "Need at least 8 seeders."
+msgstr "Precisa pelo menos 8 cabeças de chave."
+
+#: wcggui.py:69
+msgid "Impossible create a World Cup"
+msgstr "Impossível criar uma Copa do Mundo"
+
+#: wcggui.py:80
+msgid "The minimun per region do not ensure 8 seeders available."
+msgstr "O mínimo por região não garante 8 cabeças de chave disponíveis."
+
+#: wcggui.py:82
+msgid "Impossíble create a World Cup"
+msgstr "Impossível criar uma Copa do Mundo"
+
+#: wcggui.py:159
+msgid "Group "
+msgstr "Grupo "
+
+#: wcggui.py:160
+msgid "Generate"
+msgstr "Gerar"
+
+#: wcggui.py:161
+msgid "Combo"
+msgstr "Combo"
+
+#: wcggui.py:163
+msgid "Rules Editor"
+msgstr "Editor de Regras"
+
+#: wcggui.py:164
+msgid "All Random"
+msgstr "Tudo Aleatório"
+
+#: wcggui.py:164
+msgid "Super League"
+msgstr "Super League"
+
+#: wcgruleseditor.py:66
+msgid " Seeder in the group's first slot"
+msgstr " Cabeças de chave na primeira vaga do grupo"
+
+#: wcgruleseditor.py:67
+msgid " Minimun number of contries per region"
+msgstr " Número mínimo de países por região"
+
+#: wcgruleseditor.py:103
+msgid "Save"
+msgstr "Salvar"
+
+#: wcgruleseditor.py:106
+msgid "Cancel"
+msgstr "Cancelar"
+
+#~ msgid "Ásia"
+#~ msgstr "Ásia"
+
+#~ msgid "América do Norte e Central"
+#~ msgstr "North and Central America"
+
+#~ msgid "América do Sul"
+#~ msgstr "South America"
