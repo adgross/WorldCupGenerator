@@ -52,8 +52,9 @@ coverage.xml
 .pytest_cache/
 
 # Translations
-*.mo
-*.pot
+#  We should support gettext locales
+#*.mo
+#*.pot
 
 # Django stuff:
 *.log
